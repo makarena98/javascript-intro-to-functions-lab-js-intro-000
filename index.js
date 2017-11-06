@@ -23,7 +23,7 @@ function sayHiToGrandma(string){
     return "YES INDEED!";
     break;
     case "I love you, Grandma.":
-    return "I love you,too";
+    return "I love you, too.";
     break;
     default:
     "Can you hear me?"
